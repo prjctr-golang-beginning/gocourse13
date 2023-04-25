@@ -54,7 +54,6 @@ func (hd *SportDecorator) Grade() int {
 	return hd.student.Grade()
 }
 
-// Головна функція
 func main() {
 	// Створення базового студента
 	baseStudent := &BaseStudent{name: "John", grade: 80}
