@@ -1,3 +1,3 @@
-module decorator
+module gocourse13
 
-go 1.19
+go 1.21
